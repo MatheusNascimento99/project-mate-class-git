@@ -1,0 +1,1 @@
+# project-mate-class-git
